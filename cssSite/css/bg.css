@@ -12,4 +12,10 @@ body {
 h1 {
     color: black;
     text-align: center;
+    border: 3px solid red;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 300px;
+
 }
